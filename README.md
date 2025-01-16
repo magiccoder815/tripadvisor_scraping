@@ -43,9 +43,7 @@ python run.py
 
 4️⃣ Open your browser and go to [http://localhost:3000](http://localhost:3000), then press the Run button to see Tripadvisor Products. 😎
 
-![Tripadvisor Result](https://raw.githubusercontent.com/omkarcloud/tripadvisor-scraper/master/images/tripadvisor_result.png)
-
-_Note: If you don't have Node.js 16+ and Python installed or you are facing errors, follow this Simple FAQ [here](https://github.com/omkarcloud/tripadvisor-scraper/blob/master/advanced.md#-i-dont-have-python-or-im-facing-errors-when-setting-up-the-scraper-on-my-pc-how-to-solve-it), and you will have your search results in the next 5 Minutes_
+![Tripadvisor Result](https://github.com/magiccoder815/tripadvisor_scraping/blob/main/images/tripadvisor_result.png)
 
 ## ⚡ Enlightening Questions
 

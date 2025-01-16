@@ -47,6 +47,6 @@ Server.configure(
     description="Tripadvisor Scraper helps you collect Hotels and Restaurants from Tripadvisor.",
     right_header={
         "text": "Love It? Star It! ★",
-        "link": "https://github.com/omkarcloud/tripadvisor-scraper",
+        "link": "https://github.com/magiccoder815/tripadvisor_scraping",
     },
 )
