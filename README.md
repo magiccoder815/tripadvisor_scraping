@@ -53,11 +53,11 @@ _Note: If you don't have Node.js 16+ and Python installed or you are facing erro
 
 1. Visit [http://localhost:3000](http://localhost:3000) and enter your queries
 
-![Queries](https://raw.githubusercontent.com/omkarcloud/tripadvisor-scraper/master/images/queries.png)
+![Queries](https://github.com/magiccoder815/tripadvisor_scraping/blob/main/images/queries.png)
 
 2. Now, simply press the Run button.
 
-![Run](https://raw.githubusercontent.com/omkarcloud/assets/master/images/run.png)
+![Run](https://github.com/magiccoder815/tripadvisor_scraping/blob/main/images/run.png)
 
 ### ❓ What Data Points Are Scraped?
 
