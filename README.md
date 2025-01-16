@@ -78,17 +78,15 @@ Kindly follow these steps to use our Rapid API and easily get the tripadvisor pr
 
 1. Sign up on RapidAPI by visiting [this link](https://rapidapi.com/auth/sign-up).
 
-![Sign Up on RapidAPI](https://raw.githubusercontent.com/magiccoder815/assets/main/images/sign-up.png)
-
 2. Subscribe to the Free Plan by visiting [this link](https://rapidapi.com/Chetan11dev/api/tripadvisor-scraper/pricing).
 
-![Subscribe to Free Plan](https://raw.githubusercontent.com/magiccoder815/tripadvisor-scraping/main/images/tripadvisor-free-subscription.png)
+![Subscribe to Free Plan](https://github.com/magiccoder815/tripadvisor_scraping/blob/main/images/tripadvisor-free-subscription.png)
 
 3. Copy the API key.
-   ![Copy the API Key](https://raw.githubusercontent.com/magiccoder815/tripadvisor-scraping/main/images/tripadvisor-api-key.png)
+   ![Copy the API Key](https://github.com/magiccoder815/tripadvisor_scraping/blob/main/images/tripadvisor-api-key.png)
 
 4. Put the Key in the "Rapid API Key" textbox and simply run it:
 
-![api-key](https://raw.githubusercontent.com/magiccoder815/tripadvisor-scraping/main/images/api-key.png)
+![api-key](https://github.com/magiccoder815/tripadvisor_scraping/blob/main/images/api-key.png)
 
 The first 200 requests are free with the API. After that, you can upgrade to the Pro Plan to scrape 10000 listings for $16, which is a really great price, considering that the data is 101% accurate, fresh, and comprehensive with 45+ fields.
